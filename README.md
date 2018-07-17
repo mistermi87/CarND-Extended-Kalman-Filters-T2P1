@@ -1,3 +1,13 @@
+# Readme
+
+This is my version of the complete sensor fusion using an Kalman Filter both with cartesian Lidar-Signals and polar Radar-Signals. The gradients in the Kalman filter working with the Radar-Signals are reduced to first degree (Taylor Series --> Jacobian Matrix) as in the lecture 
+
+---
+---
+# Original Readme
+---
+
+
 # Extended Kalman Filter Project Starter Code
 Self-Driving Car Engineer Nanodegree Program
 
